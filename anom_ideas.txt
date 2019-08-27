@@ -1,0 +1,20 @@
+Buffer overflow
+Scripting
+Ciphers
+Stego - audio, video, picture, lsb, etc
+OSINT
+Shodan anom
+Using picture metadata to locate
+KOTH
+Web based - XSS, SQL
+github.com/Ne0Lux-C1Ph3r/WRITE-UP/blob/master/InnoCTF%202019/Crypto/index.md
+Bad Apache config and/or web config
+github.com/AidanFray/CTF_Writeups/blob/master/2019/FacebookCTF/pdfme/README.md
+Phone maze
+Phone encoding playback
+Linux Mastery
+SQL Mastery
+Networking Mastery/DNS
+Some wireshark stuff, either the location of a resolution, maybe a VOIP convo, fun stuff like that
+ASCII art flag
+SSH into an RBASH, have to SSH with ssh SERVER -t "bash --noprofile"
